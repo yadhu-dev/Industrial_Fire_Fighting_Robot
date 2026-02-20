@@ -97,7 +97,7 @@ String msg = data.substring(2);
 |---------|-----------|
 1 | Straight → Left → Stop |
 2 | Straight → Right → Stop |
-3 | Straight → Straigh → tLeft → Stop |
+3 | Straight → Straigh → Left → Stop |
 4 | Straight → Straigh → Right → Stop |
 
 ---
@@ -188,8 +188,6 @@ Battery (7.4V)
 - Ensure proper grounding  
 
 ---
-
-# Future Enhancements
 
 # Future Enhancements
 
