@@ -213,16 +213,3 @@ Department: Electronic and Instrumentation Science
 
 ---
 
-# Team Members
-
-- Tank Neelkumar 
-- Abhishek Karande  
-- Pallavi Pawase
-- Kiran Zende 
-- Pritom Manna  
-- Srushit Rahane    
-- Kamini Shinde
-- Rakesh M R 
-- Yadhul Mohan   
-
----
