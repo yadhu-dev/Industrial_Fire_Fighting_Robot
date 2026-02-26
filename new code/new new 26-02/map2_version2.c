@@ -87,8 +87,11 @@ void lineFollow(int IR_value1, int IR_value2) {
   else if (IR_value1 == 1 && IR_value2 == 0) {
     right();
   }
-  else {
+  else if(IR_value1 == 1 && IR_value2 == 1) {
     forward();
+  }
+  else{
+    stopMotor();
   }
 }
 
